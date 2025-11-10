@@ -1,3 +1,3 @@
 # Introduction
 
-This repository contains some Tableau projects that I have worked on.
+This repository contains some Power BI projects that I have worked on.
